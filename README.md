@@ -40,6 +40,12 @@ Instead of a single cabin and a single princess, the world expands into multiple
 
 The gameplay embraces the charm of classic text-based adventures, where every action is chosen through typed commands and every scene unfolds through vivid descriptions. The player arrives and then navigates trough a mysterious castle — entirely through text, immersing themselves in the atmosphere and story rather than visuals.
 
+<p align="center">
+  <img src="https://github.com/PeTrolejTV/Slay-Her/blob/main/SlayHer/gallery/Introduction.png" alt="Games introduction screen" width="65%">
+      <br>
+   <em>Figure 2 Preview of the Games introduction</em>
+</p>
+
 Each area provides detailed information about the environment, visible items, nearby NPCs, and possible exits. You’ll decide how to move, what to collect, and who to speak with. Whether you’re exploring new areas, interacting with characters, or making moral decisions, every command pushes the story forward.
 
 You’ll encounter friendly NPCs or enemies that test your courage. Items you collect may unlock new paths or turn the tide in battle. The save system lets you record your progress at any time, allowing you to continue your adventure later by simply entering your name and choosing to load your save.
@@ -47,7 +53,7 @@ You’ll encounter friendly NPCs or enemies that test your courage. Items you co
 <p align="center">
   <img src="https://github.com/PeTrolejTV/Slay-Her/blob/main/SlayHer/gallery/gameplay.png" alt="Game play screen" width="65%">
       <br>
-   <em>Figure 2 Preview of the Game play</em>
+   <em>Figure 3 Preview of the Game play</em>
 </p>
 
 It’s a slow-burn, choice-driven experience where text is your only weapon and curiosity your greatest ally. *Each prompt asks not just what you will do next — but who you’ll become by doing it.*
